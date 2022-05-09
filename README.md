@@ -1,5 +1,6 @@
-# COMSE6998 009 Final Project - Deep Learning Recommendation Models 
-## Benchmarking the Wide & Deep and Deep & Cross models for recommendation systems.
+# Benchmarking the Wide & Deep and Deep & Cross models for recommendation systems
+**Brian Hernandez (bmh2168) | Emad Dehkordy (em3578)**  
+**COMSE6998 009 Final Project**
 
 ### Overview
 
