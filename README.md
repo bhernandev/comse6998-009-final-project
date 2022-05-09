@@ -4,7 +4,7 @@
 
 ### Overview
 
-In this project we aim to benchmark and compare two similar models to recommendation systems, the Wide & Deep model and the Deep & Cross model. Both of these approaches involve the combination of a DNN component and a component to capture feature interactions. Through our methods we hoped to shed light on some of the tradeoffs and overall performance of these models.
+In this project we aim to benchmark and compare two similar models to recommendation systems, the Wide & Deep model and the Deep & Cross model. Both of these approaches involve the combination of a DNN component and a component to capture feature interactions. To benchmark these models, we tested their performance on the MovieLens - Small dataset. This dataset is comprised of movie ratings by users in addition to various features pertaining to the user's background. With this dataset and through various experiments we hoped to shed light on some of the tradeoffs and overall performance of these models.
 
 In this repository we have two notebook files. Each should be able to run end to end without any issues -- one can upload the notebook to any Jupyter Notebook server or to Google Colab and can simply use the Run All command from there to reproduce our results.
 
