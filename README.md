@@ -11,11 +11,11 @@ In this repository we have two notebook files. Each should be able to run end to
 *Original Hardware Used: K80 GPU*
 
 ### Project Structure
+* README.md
 * Recommendation_experiments.ipynb
   * Notebook file containing all of the experiments we performed as a part of our project -- results summarized below
 * Recommendation_demo.ipynb 
   * Notebook file containing the code for our project demo
-* README.md
 
 ### Results & Observations
 
